@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hello_world.gif" width="600">
+  <img src="./assets/hello_world.gif" width="550">
 </p>
 
 # Hi, I'm Dhyey
