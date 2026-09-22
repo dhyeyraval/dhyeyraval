@@ -177,7 +177,7 @@ Right now I'm focused on:
 ---
 -->
 
-## 🏆 Certifications
+## Certifications
 
 * [**Machine Learning Specialization**](https://coursera.org/share/d6ff5c87450d273855007d99b43b972f) - Andrew Ng, Coursera
 * [**Fundamentals of Deep Learning**](https://learn.nvidia.com/certificates?id=FC8m5hYGT6iENn2fdQfH6A##) - NVIDIA DLI
